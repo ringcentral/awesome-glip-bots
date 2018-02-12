@@ -5,7 +5,7 @@
 
 - [Hubot](https://github.com/tylerlong/hubot-glip)
 - [Botkit](https://github.com/pkvenu/botkit-glip-starter-app)
-
+- [BotBuilder](https://github.com/embbnux/botbuilder-glip)
 
 ### Blog articles
 
